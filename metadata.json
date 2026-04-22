@@ -1,0 +1,6 @@
+{
+  "name": "RitmoLatino - Spotify Replica",
+  "description": "Una réplica de Spotify enfocada en géneros latinos con integración de Apple Music para vistas previas y sistema de recomendación inteligente.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
