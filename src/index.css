@@ -7,13 +7,13 @@
 
 :root {
   --spotify-green: #1db954;
-  --spotify-black: #121212;
-  --spotify-light-black: #181818;
-  --spotify-gray: #b3b3b3;
+  --spotify-black: #000000;
+  --spotify-zinc-900: #18181b;
+  --spotify-zinc-800: #27272a;
 }
 
 body {
-  background-color: var(--spotify-black);
+  background-color: #000000;
   color: white;
   margin: 0;
   overflow: hidden;
@@ -38,9 +38,9 @@ body {
 }
 
 .glass {
-  background: rgba(18, 18, 18, 0.8);
-  backdrop-filter: blur(20px);
-  -webkit-backdrop-filter: blur(20px);
+  background: rgba(0, 0, 0, 0.4);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
 }
 
 .atmosphere-bg {
